@@ -16,4 +16,4 @@ After cloning run
 
 
 ## Demo  
- [Live Demo](https://raviloop-pomodoro-clock.herokuapp.com/)
+ [Live Demo](https://blissful-kalam-a3dc63.netlify.com/)
